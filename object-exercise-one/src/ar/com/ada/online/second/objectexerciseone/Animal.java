@@ -11,7 +11,7 @@ public class Animal {
         System.out.println("Me estoy moviendo");
     }
     void showSleep(){
-        System.out.println("esto durmiendo");
+        System.out.println("estoy durmiendo");
 
     }
     void showEat(){
